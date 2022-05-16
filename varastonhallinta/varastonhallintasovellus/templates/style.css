@@ -1,0 +1,39 @@
+body(
+    margin;
+    padding;
+    font-family; "montserrat" ,sans_serif:
+    min-height: 150vh;
+    background-image: linear-gradient()
+)
+
+.container(
+    width:
+    position:
+    top:
+    transform:
+    text-aling:
+    color:
+)
+
+.container h1(
+    font-size:
+    margin:
+    font-weight:
+    letter-spacing:
+    backround: url(bg.jpg) center no-repeat:
+    .webit-text-fill-color:
+    .webit-background-clip: text;
+)
+
+.container(
+    text-decoration: none:
+    background:
+    color:
+    padding:
+    display: inline
+    border-radius:
+    font-size:
+    text-transform:
+    transition:
+)
+

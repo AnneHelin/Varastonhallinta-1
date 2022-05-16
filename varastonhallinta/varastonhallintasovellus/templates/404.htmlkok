@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<HTML lang="en" dir="ltr">
+    <head>
+        <meta charset="uf-8">
+        <title></title>
+        <link rel ="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="container">
+            <h2>Ops! Page not found</h2>
+            <h1>404</h1>
+        </div>
+    </body>
+</html>        
