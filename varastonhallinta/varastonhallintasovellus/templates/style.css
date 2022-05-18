@@ -1,6 +1,6 @@
 body(
-    margin;
-    padding;
+    margin; 0
+    padding; 0
     font-family; "montserrat" ,sans_serif:
     min-height: 150vh;
     background-image: linear-gradient()
@@ -12,23 +12,23 @@ body(
     top:
     transform:
     text-aling:
-    color:
+    color:  
 )
 
 .container h1(
-    font-size:
+    font-size: 
     margin:
     font-weight:
     letter-spacing:
     backround: url(bg.jpg) center no-repeat:
-    .webit-text-fill-color:
+    .webit-text-fill-color:numito sams
     .webit-background-clip: text;
 )
 
 .container(
     text-decoration: none:
     background:
-    color:
+    color: 
     padding:
     display: inline
     border-radius:
